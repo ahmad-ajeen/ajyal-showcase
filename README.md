@@ -116,6 +116,5 @@ Coming from a cybersecurity background, security was built into the architecture
 
 ## 👥 Team
 
-Built by **Eng. Ahmad Akram Abu Elajeen** with **Eng. Haneen Adel Abu Shanab**, **Eng. Kunooz Eissa**, and **Eng. Nagham Mahjaz** as part of a Flutter mobile application development course.
-
+Built by **Eng. Ahmad Akram Abu Elajeen** with **
 📩 Contact: [LinkedIn](https://www.linkedin.com/in/ahmad-akram-abu-elajeen-07a4aa24b) · aa.aajeen@gmail.com
