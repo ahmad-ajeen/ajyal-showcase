@@ -118,5 +118,5 @@ Coming from a cybersecurity background, security was built into the architecture
 
 Designed and developed by **Eng. Ahmad Akram Abu Elajeen**.
 
-📩 Contact: [LinkedIn](httpsL//linkedin.com/in/ahmad-akram-abu-elajeen
+📩 Contact: [LinkedIn](https://linkedin.com/in/ahmad-akram-abu-elajeen
 ) · aa.aajeen@gmail.com
